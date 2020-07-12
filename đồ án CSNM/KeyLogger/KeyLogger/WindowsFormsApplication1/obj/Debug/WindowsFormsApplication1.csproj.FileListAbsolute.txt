@@ -1,0 +1,9 @@
+D:\C_sharp_project\Do An\KeyLogger\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\C_sharp_project\Do An\KeyLogger\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\C_sharp_project\Do An\KeyLogger\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\C_sharp_project\Do An\KeyLogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\C_sharp_project\Do An\KeyLogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C_sharp_project\Do An\KeyLogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\C_sharp_project\Do An\KeyLogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\C_sharp_project\Do An\KeyLogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\C_sharp_project\Do An\KeyLogger\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources

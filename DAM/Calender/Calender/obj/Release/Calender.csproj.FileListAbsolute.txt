@@ -1,0 +1,64 @@
+D:\C_sharp_project\Do An\Calender\Calender\bin\Release\Calender.exe.config
+D:\C_sharp_project\Do An\Calender\Calender\bin\Release\Calender.exe
+D:\C_sharp_project\Do An\Calender\Calender\bin\Release\Calender.pdb
+D:\C_sharp_project\Do An\Calender\Calender\bin\Release\EntityFramework.dll
+D:\C_sharp_project\Do An\Calender\Calender\bin\Release\EntityFramework.SqlServer.dll
+D:\C_sharp_project\Do An\Calender\Calender\bin\Release\EntityFramework.xml
+D:\C_sharp_project\Do An\Calender\Calender\bin\Release\EntityFramework.SqlServer.xml
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.AddUserToCalender.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.AJobAdmin.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.AJob.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.Plan.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.DailyPlan.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.QuanLyLichNhanVien.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.Form1.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.Login.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.Properties.Resources.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.csproj.GenerateResource.Cache
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.exe
+D:\C_sharp_project\Do An\Calender\Calender\obj\Release\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Release\Calender.exe.config
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Release\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Release\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Release\EntityFramework.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Release\EntityFramework.SqlServer.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Release\EntityFramework.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Release\EntityFramework.SqlServer.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.csprojAssemblyReference.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.AJobAdmin.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.AJob.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.Plan.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.DailyPlan.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.QuanLyLichNhanVien.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.Form1.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.Login.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.Properties.Resources.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.csproj.GenerateResource.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.csproj.CoreCompileInputs.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.csproj.CopyComplete
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Release\Calender.exe.config
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Release\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Release\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Release\EntityFramework.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Release\EntityFramework.SqlServer.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Release\EntityFramework.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Release\EntityFramework.SqlServer.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.csprojAssemblyReference.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.AddUserToCalender.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.AJobAdmin.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.AJob.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.Plan.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.DailyPlan.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.QuanLyLichNhanVien.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.Form1.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.Login.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.Properties.Resources.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.csproj.GenerateResource.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.csproj.CoreCompileInputs.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.csproj.CopyComplete
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Release\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.AddJob.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Release\Calender.GUI.USER.JobDetail.resources

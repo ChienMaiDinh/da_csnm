@@ -1,0 +1,8 @@
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe.config
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\KeyLogger\KeyLogger\bin\Release\KeyLogger.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\KeyLogger\KeyLogger\obj\Release\KeyLogger.KeyLog.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\KeyLogger\KeyLogger\obj\Release\KeyLogger.csproj.GenerateResource.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\KeyLogger\KeyLogger\obj\Release\KeyLogger.csproj.CoreCompileInputs.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\KeyLogger\KeyLogger\obj\Release\KeyLogger.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\KeyLogger\KeyLogger\obj\Release\KeyLogger.pdb

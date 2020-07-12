@@ -1,0 +1,111 @@
+D:\C_sharp_project\Do An\Calender\Calender\bin\Debug\Calender.exe.config
+D:\C_sharp_project\Do An\Calender\Calender\bin\Debug\Calender.exe
+D:\C_sharp_project\Do An\Calender\Calender\bin\Debug\Calender.pdb
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.csprojResolveAssemblyReference.cache
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.Properties.Resources.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.csproj.GenerateResource.Cache
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.exe
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.pdb
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.DailyPlan.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.AJob.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.Form1.resources
+D:\C_sharp_project\Do An\Calender\Calender\bin\Debug\EntityFramework.dll
+D:\C_sharp_project\Do An\Calender\Calender\bin\Debug\EntityFramework.SqlServer.dll
+D:\C_sharp_project\Do An\Calender\Calender\bin\Debug\EntityFramework.xml
+D:\C_sharp_project\Do An\Calender\Calender\bin\Debug\EntityFramework.SqlServer.xml
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.Login.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.QuanLyLichNhanVien.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.AddUserToCalender.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.AJobAdmin.resources
+D:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.Plan.resources
+E:\C_sharp_project\Do An\Calender\Calender\bin\Debug\Calender.exe.config
+E:\C_sharp_project\Do An\Calender\Calender\bin\Debug\Calender.exe
+E:\C_sharp_project\Do An\Calender\Calender\bin\Debug\Calender.pdb
+E:\C_sharp_project\Do An\Calender\Calender\bin\Debug\EntityFramework.dll
+E:\C_sharp_project\Do An\Calender\Calender\bin\Debug\EntityFramework.SqlServer.dll
+E:\C_sharp_project\Do An\Calender\Calender\bin\Debug\EntityFramework.xml
+E:\C_sharp_project\Do An\Calender\Calender\bin\Debug\EntityFramework.SqlServer.xml
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.csprojAssemblyReference.cache
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.AddUserToCalender.resources
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.AJobAdmin.resources
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.AJob.resources
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.Plan.resources
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.DailyPlan.resources
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.QuanLyLichNhanVien.resources
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.Form1.resources
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.Login.resources
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.Properties.Resources.resources
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.csproj.GenerateResource.cache
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.csproj.CoreCompileInputs.cache
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.csproj.CopyComplete
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.exe
+E:\C_sharp_project\Do An\Calender\Calender\obj\Debug\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Debug\Calender.exe.config
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Debug\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Debug\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Debug\EntityFramework.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Debug\EntityFramework.SqlServer.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Debug\EntityFramework.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\bin\Debug\EntityFramework.SqlServer.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.csprojAssemblyReference.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.AJobAdmin.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.AJob.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.Plan.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.DailyPlan.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.QuanLyLichNhanVien.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.Form1.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.Login.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.Properties.Resources.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.csproj.GenerateResource.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.csproj.CoreCompileInputs.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.csproj.CopyComplete
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Debug\Calender.exe.config
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Debug\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Debug\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Debug\EntityFramework.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Debug\EntityFramework.SqlServer.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Debug\EntityFramework.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\bin\Debug\EntityFramework.SqlServer.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.csprojAssemblyReference.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.AJobAdmin.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.AJob.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.Plan.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.DailyPlan.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.QuanLyLichNhanVien.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.Form1.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.Login.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.Properties.Resources.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.csproj.GenerateResource.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.csproj.CoreCompileInputs.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.csproj.CopyComplete
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.AddJob.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Calender\obj\Debug\Calender.GUI.USER.JobDetail.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.AddJob.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Calender\obj\Debug\Calender.GUI.USER.JobDetail.resources
+D:\DACSNM\DAM\Calender\Calender\bin\Debug\Calender.exe.config
+D:\DACSNM\DAM\Calender\Calender\bin\Debug\Calender.exe
+D:\DACSNM\DAM\Calender\Calender\bin\Debug\Calender.pdb
+D:\DACSNM\DAM\Calender\Calender\bin\Debug\EntityFramework.dll
+D:\DACSNM\DAM\Calender\Calender\bin\Debug\EntityFramework.SqlServer.dll
+D:\DACSNM\DAM\Calender\Calender\bin\Debug\EntityFramework.xml
+D:\DACSNM\DAM\Calender\Calender\bin\Debug\EntityFramework.SqlServer.xml
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.csprojAssemblyReference.cache
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.AddJob.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.AJobAdmin.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.AJob.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.Plan.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.DailyPlan.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.QuanLyLichNhanVien.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.Form1.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.Login.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.GUI.USER.JobDetail.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.Properties.Resources.resources
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.csproj.GenerateResource.cache
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.csproj.CoreCompileInputs.cache
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.csproj.CopyComplete
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.exe
+D:\DACSNM\DAM\Calender\Calender\obj\Debug\Calender.pdb

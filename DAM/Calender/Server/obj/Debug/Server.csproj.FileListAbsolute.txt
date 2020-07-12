@@ -1,0 +1,73 @@
+D:\C_sharp_project\Do An\Calender\Server\bin\Debug\Server.exe.config
+D:\C_sharp_project\Do An\Calender\Server\bin\Debug\Server.exe
+D:\C_sharp_project\Do An\Calender\Server\bin\Debug\Server.pdb
+D:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.Properties.Resources.resources
+D:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.Server.resources
+D:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.exe
+D:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.pdb
+E:\C_sharp_project\Do An\Calender\Server\bin\Debug\Server.exe.config
+E:\C_sharp_project\Do An\Calender\Server\bin\Debug\Server.exe
+E:\C_sharp_project\Do An\Calender\Server\bin\Debug\Server.pdb
+E:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.Properties.Resources.resources
+E:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.Server.resources
+E:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.exe
+E:\C_sharp_project\Do An\Calender\Server\obj\Debug\Server.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\Server.exe.config
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\Server.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\Server.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\obj\Debug\Server.Properties.Resources.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\obj\Debug\Server.Server.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\obj\Debug\Server.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\obj\Debug\Server.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\Server.exe.config
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\Server.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\EntityFramework.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\EntityFramework.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\obj\Debug\Server.Properties.Resources.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\obj\Debug\Server.Server.resources
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\obj\Debug\Server.csproj.CopyComplete
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\obj\Debug\Server.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\obj\Debug\Server.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\Server.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender1\Calender\Server\bin\Debug\Calender.exe.config
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\Calender.exe
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\EntityFramework.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\Calender.pdb
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\Calender.exe.config
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\EntityFramework.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\HOC TAP\NAM 4\KI 1\DACSNM\Do An\Do An\Calender\Server\obj\Debug\Server.csproj.CopyComplete
+D:\DACSNM\DAM\Calender\Server\bin\Debug\Server.exe.config
+D:\DACSNM\DAM\Calender\Server\bin\Debug\Server.exe
+D:\DACSNM\DAM\Calender\Server\bin\Debug\Server.pdb
+D:\DACSNM\DAM\Calender\Server\bin\Debug\Calender.exe
+D:\DACSNM\DAM\Calender\Server\bin\Debug\EntityFramework.dll
+D:\DACSNM\DAM\Calender\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\DACSNM\DAM\Calender\Server\bin\Debug\Calender.pdb
+D:\DACSNM\DAM\Calender\Server\bin\Debug\Calender.exe.config
+D:\DACSNM\DAM\Calender\Server\bin\Debug\EntityFramework.xml
+D:\DACSNM\DAM\Calender\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\DACSNM\DAM\Calender\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\DACSNM\DAM\Calender\Server\obj\Debug\Server.Properties.Resources.resources
+D:\DACSNM\DAM\Calender\Server\obj\Debug\Server.Server.resources
+D:\DACSNM\DAM\Calender\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\DACSNM\DAM\Calender\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\DACSNM\DAM\Calender\Server\obj\Debug\Server.csproj.CopyComplete
+D:\DACSNM\DAM\Calender\Server\obj\Debug\Server.exe
+D:\DACSNM\DAM\Calender\Server\obj\Debug\Server.pdb
